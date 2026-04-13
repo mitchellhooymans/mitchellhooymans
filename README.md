@@ -43,18 +43,6 @@ My work spans four interconnected areas of astrophysics:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
 ---
----
-
-## 📂 Featured Repositories
-
-| Repository | Description |
-|---|---|
-| [HonoursResearchProject](https://github.com/mitchellhooymans/HonoursResearchProject) | Honours capstone in astrophysics — investigating how AGN contaminate galaxy colour spaces across different redshifts. |
-| [MIR-AGN-ColourAnalysis](https://github.com/mitchellhooymans/MIR-AGN-ColourAnalysis) | Capstone project at QUT — mid-infrared colour analysis of active galactic nuclei. |
-| [LymanBreakActivity](https://github.com/mitchellhooymans/LymanBreakActivity) | Recreation of the Lyman Break technique for identifying high-redshift galaxies. |
-| [mitchellhooymans.github.io](https://github.com/mitchellhooymans/mitchellhooymans.github.io) | Source code for my personal website at [mitchellhooymans.com](https://mitchellhooymans.com). |
-
----
 
 ## 📸 Beyond Research
 
