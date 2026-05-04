@@ -1,22 +1,21 @@
 # Hi, I'm Mitchell 👋
 
-I'm an **Astrophysicist** completing a PhD at [The University of Queensland](https://about.uq.edu.au/) and a member of the [ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)](https://www.ozgrav.org/). My research focuses on the formation and dynamics of **black holes in dense stellar environments** and their role as gravitational wave sources.
+I'm an **Astrophysicist** and PhD candidate at [The University of Queensland](https://about.uq.edu.au/), and a member of the [ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)](https://www.ozgrav.org/). My research focuses on the formation and dynamics of **black holes in dense stellar environments** and their role as gravitational wave sources.
 
 ---
 
-## 🔭 Research
+## Research
 
 My work spans four interconnected areas of astrophysics:
 
-- **Stellar Black Holes** — Modelling black hole formation, natal kicks, retention in parent clusters, and merger potential.
-- **Dense Star Clusters** — Simulating the structural evolution and internal dynamics of globular clusters and nuclear star clusters over cosmological timescales.
-- **Galaxies & AGN** — Investigating the co-evolution of active galactic nuclei and their host galaxies, including AGN feedback and star formation regulation.
-- **Gravitational Wave Astrophysics** — Characterising the astrophysical pathways that lead to binary black hole mergers, merger rates, and mass distributions.
+- **Stellar Black Holes:** Modelling black hole formation, natal kicks, retention in parent clusters, and merger potential.
+- **Dense Star Clusters:** Simulating the structural evolution and internal dynamics of globular and nuclear star clusters over cosmological timescales.
+- **Galaxies & AGN:** Investigating the co-evolution of active galactic nuclei and their host galaxies, including AGN feedback and star formation regulation.
+- **Gravitational Wave Astrophysics:** Characterising the astrophysical pathways leading to binary black hole mergers, merger rates, and mass distributions.
 
 ---
 
-
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -37,15 +36,15 @@ My work spans four interconnected areas of astrophysics:
 
 ---
 
-## 📸 Beyond Research
+## Beyond Research
 
-When I'm not simulating star clusters, I enjoy **wildlife and landscape photography** — you can explore my work at [mitchellhooymans.com/pages/photography.html](https://mitchellhooymans.com/pages/photography.html).
+When I'm not simulating star clusters, I enjoy **wildlife and landscape photography**. You can explore my work at [mitchellhooymans.com](https://mitchellhooymans.com/pages/photography.html).
 
-I'm also passionate about **STEM communication** and creating educational tutorials and interactive simulations to make astrophysics accessible to everyone.
+I'm also passionate about **STEM communication**, creating educational tutorials and interactive simulations to make astrophysics accessible.
 
 ---
 
-## 📫 Get in Touch
+## Contact
 
 [![Website](https://img.shields.io/badge/Website-mitchellhooymans.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://mitchellhooymans.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mitchell--hooymans-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitchell-hooymans/)
