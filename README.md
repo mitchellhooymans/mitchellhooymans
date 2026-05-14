@@ -1,4 +1,4 @@
-# Hi, I'm Mitchell 👋
+# Hi, I'm Mitchell
 
 I'm an **Astrophysicist** and PhD candidate at [The University of Queensland](https://about.uq.edu.au/), and a member of the [ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)](https://www.ozgrav.org/). My research focuses on the formation and dynamics of **black holes in dense stellar environments** and their role as gravitational wave sources.
 
